@@ -1,0 +1,6 @@
+{
+  "name": "Hanh Phuc Viet Construction",
+  "description": "Hệ thống quản lý công trình xây dựng chuyên nghiệp - Hạnh Phúc Việt.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
